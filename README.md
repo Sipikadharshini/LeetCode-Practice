@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
