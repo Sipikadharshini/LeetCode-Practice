@@ -6,12 +6,10 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                // Case 1: Land → Water
+          
                 int finishLand = landStartTime[i] + landDuration[i];
                 int startWater = Math.max(finishLand, waterStartTime[j]);
                 int finishLW = startWater + waterDuration[j];
-
-                // Case 2: Water → Land
                 int finishWater = waterStartTime[j] + waterDuration[j];
                 int startLand = Math.max(finishWater, landStartTime[i]);
                 int finishWL = startLand + landDuration[i];
