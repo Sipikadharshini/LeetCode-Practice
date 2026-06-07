@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
