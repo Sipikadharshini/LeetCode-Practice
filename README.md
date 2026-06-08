@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Bit Manipulation
@@ -130,9 +131,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [3340-check-balanced-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3340-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
