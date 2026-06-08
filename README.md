@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Math
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [3340-check-balanced-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3340-check-balanced-string) |
 ## Simulation
