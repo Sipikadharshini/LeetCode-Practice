@@ -7,15 +7,17 @@ class Solution {
 
     }
     public int vowelStrings(String[] words, int left, int right) {
-            int count=0;
-        for(int i=left;i<=right;i++){
+            int ind=0;
+        for(int i=0;i<words.length;i++){
             String temp=words[i];
             int n=temp.length()-1;
-            if(isVowel(temp.charAt(0)) && isVowel(temp.charAt(n)) ) {
-                count++;
+            if(isVowel(words[i].charAt(0)) && isVowel(words[i].charAt(n)) ) {
+                if(i>=left && i<=right){
+                           ind++;
+                }
             }
 
         }
-        return count;
+        return ind;
     }
 }
