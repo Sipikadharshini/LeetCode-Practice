@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
