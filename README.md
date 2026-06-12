@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
