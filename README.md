@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
