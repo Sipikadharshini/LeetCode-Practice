@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -193,10 +197,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
