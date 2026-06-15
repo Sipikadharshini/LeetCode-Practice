@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0520-detect-capital) |
+| [0880-decoded-string-at-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0880-decoded-string-at-index) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0880-decoded-string-at-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0880-decoded-string-at-index) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
