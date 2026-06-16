@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
