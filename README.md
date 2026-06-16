@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0880-decoded-string-at-index) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0880-decoded-string-at-index) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
