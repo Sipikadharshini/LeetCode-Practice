@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 ## Tree
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3340-check-balanced-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
+## Number Theory
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
