@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0880-decoded-string-at-index) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
