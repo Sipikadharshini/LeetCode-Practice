@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
@@ -248,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+## Matrix
+|  |
+| ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
