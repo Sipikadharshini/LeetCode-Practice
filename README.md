@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0511-game-play-analysis-i) |
+| [1251-average-selling-price](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1251-average-selling-price) |
 ## Linked List
 |  |
 | ------- |
