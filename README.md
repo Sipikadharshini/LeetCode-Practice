@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2270-number-of-ways-to-split-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
