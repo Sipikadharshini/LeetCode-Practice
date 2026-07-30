@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1014-best-sightseeing-pair) |
 | [1046-last-stone-weight](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1732-find-the-highest-altitude](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
