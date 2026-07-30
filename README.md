@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2785-sort-vowels-in-a-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
