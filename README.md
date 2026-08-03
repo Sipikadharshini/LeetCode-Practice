@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1014-best-sightseeing-pair) |
 | [1046-last-stone-weight](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
