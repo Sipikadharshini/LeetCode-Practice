@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0443-string-compression) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
 |  |
