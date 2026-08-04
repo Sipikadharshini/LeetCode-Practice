@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1014-best-sightseeing-pair](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1014-best-sightseeing-pair) |
 | [1046-last-stone-weight](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1046-last-stone-weight) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
+| [0905-sort-array-by-parity](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1768-merge-strings-alternately) |
