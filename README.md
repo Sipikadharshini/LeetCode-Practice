@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1014-best-sightseeing-pair](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1014-best-sightseeing-pair) |
