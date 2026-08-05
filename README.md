@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1732-find-the-highest-altitude](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0905-sort-array-by-parity](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2785-sort-vowels-in-a-string) |
