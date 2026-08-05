@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1732-find-the-highest-altitude](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3614-process-string-with-special-operations-ii) |
