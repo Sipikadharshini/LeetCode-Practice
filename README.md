@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0724-find-pivot-index) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
