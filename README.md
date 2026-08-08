@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
