@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2947-count-beautiful-substrings-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2947-count-beautiful-substrings-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 ## Math
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
