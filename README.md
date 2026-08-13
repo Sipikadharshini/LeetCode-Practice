@@ -233,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
+| [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
