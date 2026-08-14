@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
