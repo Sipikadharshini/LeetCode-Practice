@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
