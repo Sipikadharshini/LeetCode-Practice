@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0697-degree-of-an-array](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0697-degree-of-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
+| [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
