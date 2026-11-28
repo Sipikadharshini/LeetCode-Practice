@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0877-stone-game](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1014-best-sightseeing-pair) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0472-concatenated-words) |
 | [0652-find-duplicate-subtrees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0872-leaf-similar-trees](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sipikadharshini/LeetCode-Practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
